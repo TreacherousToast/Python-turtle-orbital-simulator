@@ -5,7 +5,7 @@ t = turtle.Turtle()
 # parameters
 x = 10 # x value of the spaceship. Has to be greater than 0, or else the program will crash from the first calculation.
 y = 160 # y value of the spaceship
-dx = 22 # x velocity (delta-x)
+dx = 25 # x velocity (delta-x)
 dy = 0 # y velocity (delta-y)
 ax = 0 # x acceleration
 ay = 0 # y acceleration
